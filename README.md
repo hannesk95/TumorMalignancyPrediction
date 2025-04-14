@@ -1,1 +1,1 @@
-# Systematic Evaluation of Machine Learning Approaches for Ordinal Prediction Tasks in Cancer Research: Application to Tumor Malignancy Prediction
+# Rank-N Contrastive Learning for Continuous Representations in Ordinal Tumor Malignancy Prediction
