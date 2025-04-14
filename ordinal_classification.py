@@ -61,7 +61,6 @@ def train_ordinal_classifier(model, data_loader, optimizer, n_classes, epochs=10
 
         print(f"Epoch {epoch + 1}/{epochs}, Loss: {total_loss / len(data_loader)}")
 
-# Main Script
 if __name__ == "__main__":
     # Define hyperparameters
     n_samples = 1000
